@@ -76,7 +76,7 @@ test.png
 
 Add screenshots or output images here, like:
 
-![Example Frame](static.png)
+![Motion Detection Output](static.png)
 
 ---
 
